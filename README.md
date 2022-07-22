@@ -27,7 +27,7 @@ Dataset : [click](http://vis-www.cs.umass.edu/lfw/)
 1) Install all the libraries using "pip install -r requirements.txt"
 2) To train, run the training.py
 3) Open cmd in project folder
-4) Enter python webapp.py
+4) Run python webapp.py
 5) Open browser and Predict !
 
 
